@@ -54,6 +54,3 @@ console.log(willThisWork); //imprime 5
 
 
 
-
-
-
